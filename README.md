@@ -2,8 +2,10 @@
 
 ImagesToPDF is a simple script where you can drag and drop your photos and merge them in one .pdf
 
-
-
+## Clone the project
+```
+git clone https://github.com/thkast27/ImagesToPDF.git
+```
 ## Third Party Libraries 
 
 tkinterdnd2 built by [pmgagne](https://github.com/pmgagne/tkinterdnd2)
